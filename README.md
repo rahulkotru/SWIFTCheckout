@@ -1,4 +1,4 @@
 # SWIFTCheckout
 Presenting SWIFT Checkout
 
-A futuristic approach towards retail shopping imagined via Deep Learning.
+A futuristic retail shopping engine powered by Deep Learning.
